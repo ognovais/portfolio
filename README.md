@@ -3,7 +3,7 @@
 Meu portfólio profissional desenvolvido para apresentar minha trajetória, projetos, habilidades e evolução na área de tecnologia.
 
 🌐 Acesse o portfólio:
-https://ognovais.github.io/Portfolio/
+https://ognovais.github.io/portfolio/
 
 ---
 
